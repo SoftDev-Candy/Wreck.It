@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/WarehouseWreckage/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"D:/WarehouseWreckage/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"D:/WarehouseWreckage/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"D:/WarehouseWreckage/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"D:/WarehouseWreckage/Content/Mainmap.umap",
+				"D:/WarehouseWreckage/Content/BP_Barrel.uasset",
+				"D:/WarehouseWreckage/Content/BP_TrafficCone.uasset",
+				"D:/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/BP_Barrel.uasset"
+			]
+		}
+	]
+}
